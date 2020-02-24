@@ -1,0 +1,6 @@
+.dep
+.settings/
+.cproject
+.project
+build/
+!build/mbdimmer.bin
